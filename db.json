@@ -1,0 +1,41 @@
+{
+    "posts":[
+        {
+          "id": 1,
+          "title": "Amazing Adventure",
+          "description": "Embark on a thrilling journey to discover the unknown!",
+          "like_count": 25
+        },
+        {
+          "id": 2,
+          "title": "Delicious Recipes",
+          "description": "Explore mouthwatering recipes from around the world.",
+          "like_count": 42
+        },
+        {
+          "id": 3,
+          "title": "Tech Innovations",
+          "description": "Stay updated on the latest technological breakthroughs.",
+          "like_count": 18
+        },
+        {
+          "id": 4,
+          "title": "Nature's Wonders",
+          "description": "Witness the beauty of nature through stunning photographs.",
+          "like_count": 56
+        },
+        {
+          "id": 5,
+          "title": "Fitness Tips",
+          "description": "Achieve your fitness goals with expert tips and advice.",
+          "like_count": 30
+        },
+        {
+          "id": 6,
+          "title": "Book Recommendations",
+          "description": "Discover captivating books recommended by avid readers.",
+          "like_count": 38
+        }
+      ]
+      
+}
